@@ -1,7 +1,6 @@
 ## ✅ Project – **Tic Tac Toe vs Computer**
 
 
-```markdown
 # 🤖 Tic Tac Toe – Play vs Computer
 
 A simple but fun Tic Tac Toe game where you play against a basic AI (computer). Made with HTML, CSS, and JavaScript, featuring a smooth and colorful interface.
