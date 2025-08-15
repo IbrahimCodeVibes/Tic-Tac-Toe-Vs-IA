@@ -18,3 +18,5 @@ The computer selects random empty cells – it’s beatable!
 - HTML5
 - CSS3 (animations & layout)
 - JavaScript (DOM + game logic)
+
+## Follow me on IG!
